@@ -1,4 +1,11 @@
 # Point-Class
+
+### Explicação
+Essa foi uma tarefa do curso Dev Python da escola Mate Academy. As instruções estão declaradas abaixo.
+
+#
+
+### Instruções
 Você trabalha como professor de escola. Para facilitar seu trabalho com pontos no plano de coordenadas, você decide criar uma classe correspondente.
 
 Escreva uma classe Point. Seu método __init__ aceita e armazena as coordenadas coordenadas x e y de um ponto. Todas as instâncias criadas devem ser armazenadas na lista points - um atributo da classe Point.
